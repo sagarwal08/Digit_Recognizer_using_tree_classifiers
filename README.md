@@ -11,8 +11,7 @@ Confusion Matrix by the most accurate Gradient Boosting Classifier.
 
 
 
-Best Accuracy attained by the model:
+**Best Accuracy attained by the model:**
 
 Training accuracy - 0.9989206349206349
-
 Testing accuracy - 0.9596190476190476
