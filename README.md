@@ -2,12 +2,13 @@
 
 Dataset - https://www.kaggle.com/c/digit-recognizer
 
+The accuracy of gradient boosting classifier increases with increase in number of estimators upto a certain.
 ![](images/gbc.png)
 
-The accuracy of gradient boosting classifier increases with increase in number of estimators upto a certain.
-
-![](images/confusion_matrix.png)
 Confusion Matrix by the most accurate Gradient Boosting Classifier.
+![](images/confusion_matrix.png)
+
+
 
 Best Accuracy attained by the model:
 Training accuracy - 0.9989206349206349
